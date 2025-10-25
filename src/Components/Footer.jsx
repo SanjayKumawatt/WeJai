@@ -19,10 +19,10 @@ const Footer = () => {
 
                 <div className="container mx-auto px-4 relative z-10">
                     <h2 className="text-4xl md:text-6xl font-serif font-bold text-white mb-6">
-                        Book Now to Experience <br /> Heritage Luxury and <br /> Peaceful Comfort at Hotel WeJai Global!
+                        Book Now to Experience <br /> Heritage Luxury and <br /> Peaceful Comfort at WeJai Global!
                     </h2>
                     <p className="text-gray-200 max-w-3xl mx-auto mb-10 leading-relaxed">
-                        Experience the charm of Jaipur like never before at Hotel WeJai Global.
+                        Experience the charm of Jaipur like never before at WeJai Global.
                         Book your stay now and enjoy the perfect blend of Rajasthani heritage, modern comfort, and warm hospitality.
                         Whether you're planning a family vacation, a romantic getaway, or a cultural escape, our beautifully designed
                         hotel offers peaceful comfort in the heart of the Pink City.

@@ -5,7 +5,7 @@ import { Plus, Minus } from 'lucide-react'; // Icons
 // Data for the FAQ from your image
 const faqData = [
     {
-        question: 'What are the check-in and check-out timings at Hotel WeJai Global?',
+        question: 'What are the check-in and check-out timings at WeJai Global?',
         answer: 'Check-in is from 1:00 PM onwards, and check-out is until 9:00 AM. Early check-in and late check-out are subject to availability.'
     },
     {
@@ -60,7 +60,7 @@ const StaySimpleFaq = () => {
                         Your Stay Made Simple
                     </h2>
                     <p className="text-gray-600 mb-8 leading-relaxed">
-                        Planning your stay at Hotel WeJai Global? We've answered some of the most
+                        Planning your stay at WeJai Global? We've answered some of the most
                         common questions to help you feel confident before booking. From check-in
                         details to our location, amenities, and transport services, find everything you
                         need to know for a smooth and memorable stay.

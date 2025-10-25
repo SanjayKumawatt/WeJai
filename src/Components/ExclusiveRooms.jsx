@@ -46,7 +46,7 @@ const roomData = [
 // Data for the FAQ
 const faqData = [
     {
-        question: 'What are the check-in and check-out timings at Hotel WeJai Global?',
+        question: 'What are the check-in and check-out timings at WeJai Global?',
         answer: 'Check-in from 2:00 PM onwards, and check-out is until 11:00 AM. Early check-in and late check-out are subject to availability.'
     },
     {
@@ -133,7 +133,7 @@ const ExclusiveRooms = () => {
                             Find Our Exclusive Room
                         </h2>
                         <p className="text-gray-600 mb-4 leading-relaxed">
-                            Celebrate your special moments or royal stay at Hotel WeJai Global. We offer an exceptional blend of modern living in a heritage setting, and we are known for our personalized and classic service.
+                            Celebrate your special moments or royal stay at WeJai Global. We offer an exceptional blend of modern living in a heritage setting, and we are known for our personalized and classic service.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
                             Enjoy authentic Rajasthani hospitality in one of the best locations in Jaipur, where we bring comfort and the past together.
@@ -146,7 +146,7 @@ const ExclusiveRooms = () => {
                             Your Stay Made Simple
                         </h2>
                         <p className="text-gray-600 mb-8 leading-relaxed">
-                            Planning your stay at Hotel WeJai Global? Take a panoramic view of the hotel and its facilities, get familiar with all the room details, and find everything you need to know about our services right here.
+                            Planning your stay at WeJai Global? Take a panoramic view of the hotel and its facilities, get familiar with all the room details, and find everything you need to know about our services right here.
                         </p>
                         <Link
                             to="/contact"

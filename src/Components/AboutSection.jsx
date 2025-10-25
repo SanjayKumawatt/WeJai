@@ -15,7 +15,7 @@ const AboutSection = () => {
                         We can help you feel <br /> more comfortable
                     </h2>
                     <p className="text-gray-600 mb-8 leading-relaxed">
-                        Located at: <span className="font-semibold">Address- B 14 15 SF R TECH CAPITAL MALL, JAGATPURA JAIPUR 302017</span>, just minutes from the famous tourist spots of Jaipur. Hotel <span className="font-semibold">WeJai Global</span> invites you to experience heritage hospitality with modern comfort. As one of the best heritage hotels in Jaipur, Rajasthan, we offer beautifully designed rooms, a rooftop restaurant with fort views, and personalized service for every guest.
+                        Located at: <span className="font-semibold">Address- B 14 15 SF R TECH CAPITAL MALL, JAGATPURA JAIPUR 302017</span>, just minutes from the famous tourist spots of Jaipur. <span className="font-semibold">WeJai Global</span> invites you to experience heritage hospitality with modern comfort. As one of the best heritage hotels in Jaipur, Rajasthan, we offer beautifully designed rooms, a rooftop restaurant with fort views, and personalized service for every guest.
                     </p>
 
                     {/* Features Grid */}

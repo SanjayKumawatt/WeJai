@@ -2,7 +2,9 @@ import React from 'react';
 import img1 from "../assets/theroyalnexthomestay/IMG-20251025-WA0011.jpg"
 import img2 from "../assets/comfotinn/IMG-20251025-WA0019.jpg"
 import img3 from "../assets/comfotinn/IMG-20251025-WA0036.jpg"
-import img4 from "../assets/eliehomestay/IMG-20251025-WA0033.jpg"
+// import img4 from "../assets/eliehomestay/IMG-20251025-WA0033.jpg"
+import img5 from "../assets/theroyalnexthomestay/IMG-20251025-WA0003.jpg"
+
 
 // Gallery data
 const galleryImages = [
@@ -36,9 +38,9 @@ const galleryImages = [
     },
     {
         id: 5,
-        service: 'Amenities',
-        title: 'Modern Bathrooms',
-        imgSrc: img4, // Placeholder
+        service: 'Badrooms',
+        title: 'Luxury Badrooms',
+        imgSrc: img5, // Placeholder
         layoutClass: 'md:row-span-1' // Bottom Middle
     },
 ];
@@ -74,10 +76,10 @@ const PhotoGallery = () => {
                 {/* Section Header */}
                 <div className="text-center mb-12 md:mb-16">
                     <h2 className="text-4xl md:text-5xl font-serif font-bold text-gray-800 mb-4">
-                        Discover the Beauty of Hotel WeJai Global
+                        Discover the Beauty of WeJai Global
                     </h2>
                     <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                        Step into the charm of heritage living through our photo gallery. From beautifully designed rooms to serene courtyards and authentic Rajasthani decor – every corner of Hotel WeJai Global reflects timeless elegance.
+                        Step into the charm of heritage living through our photo gallery. From beautifully designed rooms to serene courtyards and authentic Rajasthani decor – every corner of WeJai Global reflects timeless elegance.
                     </p>
                 </div>
 

@@ -57,7 +57,7 @@ const TopChoice = () => {
                             Why our services are the top choice
                         </h2>
                         <p className="text-gray-600 mb-10 leading-relaxed">
-                            At Hotel WeJai Global, we go beyond just providing rooms – we deliver an
+                            At WeJai Global, we go beyond just providing rooms – we deliver an
                             experience rooted in tradition, comfort, and care. Here's why travelers from
                             around the world choose us among the best hotels in Jaipur, Rajasthan.
                         </p>

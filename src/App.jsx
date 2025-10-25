@@ -45,11 +45,6 @@ const App = () => {
           path: "/rooms/elite-homestay",
           element: <EliteHomestayPage/>
         },
-
-        {
-          path: "/restaurant",
-          element: <Restaurant />
-        },
         {
           path: "/contact",
           element: <Contact />

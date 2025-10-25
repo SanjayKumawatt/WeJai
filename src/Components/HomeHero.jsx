@@ -20,7 +20,7 @@ const HomeHero = () => {
                 <div className="absolute inset-0 bg-black/50 "></div>
 
                 <div className="relative z-10 text-center text-white p-4">
-                    <p className="text-lg md:text-xl mb-2">Welcome to Hotel WeJai Global
+                    <p className="text-lg md:text-xl mb-2">Welcome to WeJai Global
 </p>
                     <h1 className="text-4xl md:text-7xl font-medium leading-tight font-serif">
                         A Royal Stay in <br />

@@ -18,7 +18,7 @@ const RoomsHero = () => {
                     Find Our Exclusive Rooms
                 </h1>
                 <p className="text-lg md:text-xl text-gray-200 max-w-3xl mx-auto leading-relaxed">
-                    Celebrate your special moments in royal style at Hotel WeJai Global. Whether it's a honeymoon, anniversary,
+                    Celebrate your special moments in royal style at WeJai Global. Whether it's a honeymoon, anniversary,
                     birthday, or a romantic getaway, our exclusive room offers the perfect blend of heritage charm and modern
                     luxury.
                 </p>
