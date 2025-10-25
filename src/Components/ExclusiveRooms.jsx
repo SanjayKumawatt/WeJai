@@ -136,7 +136,7 @@ const ExclusiveRooms = () => {
                             Celebrate your special moments or royal stay at WeJai Global. We offer an exceptional blend of modern living in a heritage setting, and we are known for our personalized and classic service.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
-                            Enjoy authentic Rajasthani hospitality in one of the best locations in Jaipur, where we bring comfort and the past together.
+                            Enjoy the essence of Rajasthan in one of Jaipur’s best locations, where comfort meets timeless tradition.
                         </p>
                     </div>
 

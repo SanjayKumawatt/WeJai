@@ -15,9 +15,7 @@ const AboutHero = () => {
                     About WeJai Global
                 </h1>
                 <p className="text-base sm:text-lg md:text-xl text-gray-200 max-w-3xl mx-auto leading-relaxed">
-                     WeJai Global is a family-run heritage hotel offering authentic Rajasthani hospitality in the
-                    heart of Jaipur. Enjoy peaceful stays, traditional architecture, and modern comforts
-                    – making us one of the best hotels in Jaipur, Rajasthan.
+                     WeJai Global is a family-run heritage hotel that captures the true essence of Rajasthan in the heart of Jaipur. Experience serene stays, timeless architecture, and modern comfort with us in Jaipur, Rajasthan.
                 </p>
             </div>
         </section>

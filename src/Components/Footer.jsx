@@ -22,10 +22,7 @@ const Footer = () => {
                         Book Now to Experience <br /> Heritage Luxury and <br /> Peaceful Comfort at WeJai Global!
                     </h2>
                     <p className="text-gray-200 max-w-3xl mx-auto mb-10 leading-relaxed">
-                        Experience the charm of Jaipur like never before at WeJai Global.
-                        Book your stay now and enjoy the perfect blend of Rajasthani heritage, modern comfort, and warm hospitality.
-                        Whether you're planning a family vacation, a romantic getaway, or a cultural escape, our beautifully designed
-                        hotel offers peaceful comfort in the heart of the Pink City.
+                        Experience the charm of Jaipur like never before at WeJai Global. Book your stay now and enjoy the perfect blend of Rajasthani heritage and modern comfort. Whether you're planning a family vacation, a romantic getaway, or a cultural escape, our beautifully designed space offers peaceful comfort in the heart of the Pink City.
                     </p>
                     <Link
                         to="/contact"
@@ -49,8 +46,7 @@ const Footer = () => {
                                 </h3>
                             </div>
                             <p className="text-sm leading-relaxed mb-5 text-gray-400">
-                                Experience the charm of Rajasthan with WeJai Global — blending
-                                heritage luxury, modern comfort, and warm hospitality for an unforgettable stay.
+                               Experience the charm of Rajasthan with WeJai Global — blending heritage luxury and modern comfort for an unforgettable stay.
                             </p>
                             <p className="text-sm text-gray-300">
                                 <span className="font-semibold text-yellow-400">GSTIN:</span> 08CVSPA9466M1ZN

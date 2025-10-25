@@ -12,10 +12,6 @@ const featuresData = [
         description: 'Stay in a beautifully preserved haveli that blends royal Rajasthani charm with all the modern comforts you need for a relaxing experience.'
     },
     {
-        title: 'Rooftop Restaurant',
-        description: 'Enjoy delicious pure vegetarian meals with breathtaking views of the city forts at our peaceful rooftop dining area.'
-    },
-    {
         title: 'Family & Couple Friendly',
         description: 'Spacious, well-equipped rooms ideal for families, couples, and solo travelers seeking comfort, privacy, and convenience.'
     },
@@ -49,8 +45,8 @@ const HeritageStay = () => {
                     Heritage Stay in Jaipur
                 </h2>
                 <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-16 leading-relaxed">
-                    Our hotel is perfect for couples, families, and cultural travelers looking for a true taste of the Pink
-                    City. Whether you're enjoying a rooftop meal or exploring the nearby attractions, we aim to make
+                    WeJai Global is perfect for couples, families, and cultural travelers looking for a true taste of the Pink
+                    City. we aim to make
                     your stay warm, welcoming, and unforgettable.
                 </p>
 
