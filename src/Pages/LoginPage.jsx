@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Mail, Lock, LogIn } from 'lucide-react';
+import { Mail, Lock, LogIn, X } from 'lucide-react';
 import img from "../assets/hero/img.webp"; // <-- YEH LINE ERROR DE RAHI THI, HATA DI GAYI HAI
 
 
@@ -16,6 +16,8 @@ const LoginPage = () => {
 
     return (
         <div className="min-h-screen flex bg-gray-50">
+           
+
             {/* 1. Image Column (Desktop par dikhega) */}
             <div className="hidden md:block md:w-1/2 lg:w-2/3 relative">
                 <img
@@ -23,6 +25,12 @@ const LoginPage = () => {
                     alt="Hotel WeJai Global"
                     className="w-full h-full object-bottom"
                 />
+            <Link to={"/"}
+                className="absolute top-4 left-4 text-gray-700 hover:text-yellow-600 bg-white shadow-md rounded-full p-2 transition-all duration-300 z-20"
+                aria-label="Close and go home"
+            >
+                <X size={22} />
+            </Link>
                 {/* 👇 Yahaan text add kiya gaya hai */}
                 <div className="absolute inset-0 flex items-center justify-center bg-black/50">
                     <h1 className="text-white text-4xl md:text-5xl font-medium  text-center leading-tight ">
@@ -127,7 +135,9 @@ const LoginPage = () => {
                         </Link>
                     </p>
                 </div>
+                
             </div>
+             
         </div>
     );
 };
