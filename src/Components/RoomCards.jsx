@@ -11,7 +11,6 @@ const roomCardsData = [
         name: 'THE ROYAL NEST HOMESTAY',
         image: img1,
         roomCount: '15+',
-        size: '12 x 12 m²',
         guests: '2 Guests',
         description: 'Our premium homestay with luxury interiors, smart TVs, and attached modern bathrooms. All essential amenities for a restful stay.',
         rating: 5,
@@ -20,21 +19,18 @@ const roomCardsData = [
     {
         name: 'The Heritage Comfort Inn',
         image: img2,
-        roomCount: '5+',
-        size: '12 x 10 m²',
-        guests: '4 Guests',
+        roomCount: '5+',        guests: '4 Guests',
         description: 'Blending modern comfort with traditional décor. This room offers more space, Wi-Fi, and hot water for a relaxed experience.',
-        rating: 5,
+        rating: 4,
         id: 'heritage-comfort' // for the link
     },
     {
         name: 'Elite Homestay',
         image: img3,
         roomCount: '5+',
-        size: '10 x 10 m²',
         guests: '4 Guests',
         description: 'Perfect for families or groups, this spacious room ensures everyone stays together with comfort and convenience. Budget-friendly.',
-        rating: 5,
+        rating: 3,
         id: 'elite-homestay' // for the link
     }
 ];

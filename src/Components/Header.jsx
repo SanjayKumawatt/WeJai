@@ -11,9 +11,9 @@ const Header = () => {
                 <div className="flex items-center">
                     {/* Placeholder for your 'BI' logo image */}
                     {/* Yahaan apni 'BI' logo image ka path daalein */}
-                    <img src={logo} alt="BI Logo" className="h-18 " /> 
+                    <img src={logo} alt="BI Logo" className="h-18 " />
                     {/* Font ko default sans-serif par waapis kar diya hai */}
-                    <Link to="/" className="text-white text-2xl"> 
+                    <Link to="/" className="text-white text-2xl">
                         WeJai Global {/* Text changed as per your HomeHero */}
                     </Link>
                 </div>
@@ -24,6 +24,8 @@ const Header = () => {
                     <Link to="/about" className="text-white px-6 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors duration-300">ABOUT</Link>
                     <Link to="/rooms" className="text-white px-6 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors duration-300">ROOMS</Link>
                     <Link to="/contact" className="text-white px-6 py-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors duration-300">CONTACT</Link>
+                    <Link to="/login" className="text-black px-6 py-2 bg-yellow-500 rounded-full hover:bg-yellow-600 transition-colors duration-300">Login / Signup</Link>
+
                 </div>
 
                 <div className="md:hidden">

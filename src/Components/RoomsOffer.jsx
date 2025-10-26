@@ -166,7 +166,7 @@ const RoomsOffer = () => {
                             {/* Buttons */}
                             <div className="flex flex-col sm:flex-row gap-4">
                                 <Link
-                                    to="/contact"
+                                    to="/booking"
                                     className="w-full sm:w-auto text-center bg-yellow-600 text-white px-8 py-3 rounded-full font-medium hover:bg-yellow-700 transition-all duration-300 shadow-md"
                                 >
                                     BOOK NOW

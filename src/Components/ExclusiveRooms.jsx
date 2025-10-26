@@ -83,7 +83,7 @@ const RoomCard = ({ name, isFeatured, features }) => {
                 ))}
             </ul>
             <Link
-                to="/contact"
+                to="/booking"
                 className={`w-full text-center block px-6 py-3 rounded-full font-medium transition-all duration-300 ${
                     isFeatured 
                         ? 'bg-white text-gray-800 hover:bg-gray-200' 

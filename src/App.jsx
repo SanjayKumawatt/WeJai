@@ -10,6 +10,10 @@ import Contact from './Pages/Contact'
 import RoomDetailPage from './Pages/RoomDetailPage'
 import HeritageComfortPage from './Pages/HeritageComfortPage'
 import EliteHomestayPage from './Pages/EliteHomestayPage'
+import LoginPage from './Pages/LoginPage'
+import SignupPage from './Pages/SignupPage'
+import ForgotPasswordPage from './Pages/ForgotPasswordPage'
+import BookingPage from './Pages/BookingPage'
 // import { Contact } from 'lucide-react'
 
 const App = () => {
@@ -34,22 +38,39 @@ const App = () => {
         },
         {
           path: "/rooms/royal-nest",
-          element: <RoomDetailPage/>
+          element: <RoomDetailPage />
         },
-        
+
         {
           path: "/rooms/heritage-comfort",
-          element: <HeritageComfortPage/>
+          element: <HeritageComfortPage />
         },
         {
           path: "/rooms/elite-homestay",
-          element: <EliteHomestayPage/>
+          element: <EliteHomestayPage />
         },
         {
           path: "/contact",
           element: <Contact />
         },
+        {
+          path: "/booking",
+          element: <BookingPage />
+        },
       ]
+    },
+
+    {
+      path: "/login",
+      element: <LoginPage />
+    },
+    {
+      path:"/signup",
+      element:<SignupPage/>
+    },
+    {
+      path:"/forgot-password",
+      element:<ForgotPasswordPage/>
     }
   ])
 

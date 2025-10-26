@@ -1,6 +1,6 @@
 import React from 'react';
 // We no longer need Swiper, so those imports are removed.
-import img from "../assets/hero/img.jpg"; // <-- YEH LINE ERROR DE RAHI THI, HATA DI GAYI HAI
+import img from "../assets/hero/img.webp"; // <-- YEH LINE ERROR DE RAHI THI, HATA DI GAYI HAI
 
 
 const HomeHero = () => {
@@ -9,7 +9,7 @@ const HomeHero = () => {
     return (
         <section className="relative h-screen overflow-hidden">
             <div
-                className="w-full h-full bg-cover bg-center flex items-center justify-center relative"
+                className="w-full h-full bg-cover bg-top flex items-center justify-center relative"
                 // ** IMPORTANT **
                 // Maine image ko direct 'public' folder se load karne ke liye set kar diya hai.
                 // 'img.webp' file ko public folder mein rakhein.

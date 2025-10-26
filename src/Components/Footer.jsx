@@ -46,11 +46,9 @@ const Footer = () => {
                                 </h3>
                             </div>
                             <p className="text-sm leading-relaxed mb-5 text-gray-400">
-                               Experience the charm of Rajasthan with WeJai Global — blending heritage luxury and modern comfort for an unforgettable stay.
+                                Experience the charm of Rajasthan with <br /> WeJai Global - blending heritage luxury and modern comfort for an unforgettable stay.
                             </p>
-                            <p className="text-sm text-gray-300">
-                                <span className="font-semibold text-yellow-400">GSTIN:</span> 08CVSPA9466M1ZN
-                            </p>
+
                         </div>
 
                         {/* --- Column 2: Quick Links --- */}
@@ -99,6 +97,9 @@ const Footer = () => {
                                     >
                                         booking@wejai.in
                                     </a>
+                                </p>
+                                <p className="text-sm text-gray-300">
+                                    <span className="font-semibold text-yellow-400">GSTIN:</span> 08CVSPA9466M1ZN
                                 </p>
                             </address>
                         </div>
